@@ -1,8 +1,10 @@
 ## Hola, mi nombre es Gerónimo Schmidt👋
+## Hi there! My name is Gerónimo Schmidt👋
 
 Soy estudiante de informática y desarrollo de software 💻, actualmente me encuentro aprendiendo nuevas tecnologías de mi interés. 
+I'm a computer science and software development student 💻, currently learning new technologies of my interest.
 
-#### Tecnologías:
+#### Tecnologías / Technologies:
 
 `SWIFT` `IOS` `XCODE` `MYSQL` `JAVA` `PHP` `JS`
 
