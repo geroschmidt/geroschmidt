@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hola mundo, mi nombre es Geronimo Schmidt👋
+### Soy estudiante de informatica y desarrollo de software 💻, actualmente me encuentro aprendiendo nuevas tecnologias de mi interes. 
+
+
+Tecnologías:
+
+../Apple ../Swift ../Xcode 
+
 
 <!--
 **geroschmidt/geroschmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
