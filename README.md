@@ -2,9 +2,9 @@
 Soy estudiante de informática y desarrollo de software 💻, actualmente me encuentro aprendiendo nuevas tecnologías de mi interés. 
 
 
-###Tecnologías:
+### Tecnologías:
 
-[Apple] ../Swift ../Xcode 
+### Swift ### ### Apple ### ### XCode ###
 
 
 <!--
