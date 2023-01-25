@@ -4,7 +4,7 @@ Soy estudiante de informática y desarrollo de software 💻, actualmente me enc
 
 ### Tecnologías:
 
-`Swift`
+`Swift` `Apple` `XCode` `Web` `SQL`
 
 
 
