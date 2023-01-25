@@ -4,7 +4,7 @@ Soy estudiante de informática y desarrollo de software 💻, actualmente me enc
 
 ### Tecnologías:
 
-background-color:`#0969DA` `Swift` `Apple` `XCode` `Web` `SQL`
+`Swift` `Apple` `XCODE` `MYSQL` `JAVA` `PHP` `JS`
 
 
 
