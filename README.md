@@ -4,7 +4,7 @@ Soy estudiante de informática y desarrollo de software 💻, actualmente me enc
 
 ### Tecnologías:
 
-`Swift` `Apple` `XCODE` `MYSQL` `JAVA` `PHP` `JS`
+`SWIFT` `IOS` `XCODE` `MYSQL` `JAVA` `PHP` `JS`
 
 
 
