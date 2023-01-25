@@ -1,5 +1,5 @@
 ## Hola mundo, mi nombre es Geronimo Schmidt👋
-# Soy estudiante de informatica y desarrollo de software 💻, actualmente me encuentro aprendiendo nuevas tecnologias de mi interes. 
+Soy estudiante de informatica y desarrollo de software 💻, actualmente me encuentro aprendiendo nuevas tecnologias de mi interes. 
 
 
 Tecnologías:
