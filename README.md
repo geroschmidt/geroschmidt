@@ -2,7 +2,7 @@
 
 Soy estudiante de informática y desarrollo de software 💻, actualmente me encuentro aprendiendo nuevas tecnologías de mi interés. 
 
-### Tecnologías:
+#### Tecnologías:
 
 `SWIFT` `IOS` `XCODE` `MYSQL` `JAVA` `PHP` `JS`
 
