@@ -4,7 +4,8 @@ Soy estudiante de informática y desarrollo de software 💻, actualmente me enc
 
 ### Tecnologías:
 
-### Swift ### ### Apple ### ### XCode ###
+```{Swift}
+```
 
 
 <!--
