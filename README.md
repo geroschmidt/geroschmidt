@@ -1,10 +1,10 @@
-## Hola mundo, mi nombre es Geronimo Schmidt👋
-Soy estudiante de informatica y desarrollo de software 💻, actualmente me encuentro aprendiendo nuevas tecnologias de mi interes. 
+## Hola mundo, mi nombre es Gerónimo Schmidt👋
+Soy estudiante de informática y desarrollo de software 💻, actualmente me encuentro aprendiendo nuevas tecnologías de mi interés. 
 
 
-Tecnologías:
+###Tecnologías:
 
-../Apple ../Swift ../Xcode 
+[Apple] ../Swift ../Xcode 
 
 
 <!--
