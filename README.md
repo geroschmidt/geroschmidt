@@ -6,7 +6,7 @@ I'm a computer science and software development student 💻, currently learning
 
 #### Tecnologías / Technologies:
 
-`SWIFT` `IOS` `XCODE` `MYSQL` `JAVA` `PHP` `JS`
+`SWIFT` `IOS` `XCODE` `MYSQL` `FIREBASE` `PHP` `JS`
 
 
 <!--
