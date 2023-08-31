@@ -2,7 +2,7 @@
 
 BackendDev 💻! Actualmente me encuentro aprendiendo nuevas tecnologías de mi interés. 
 >
-I'm a computer science and software development student 💻, currently learning new technologies of my interest.
+BackendDev 💻! Currently learning new technologies of my interest.
 
 #### Tecnologías / Technologies:
 
